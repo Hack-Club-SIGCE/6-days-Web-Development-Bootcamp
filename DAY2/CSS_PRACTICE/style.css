@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&display=swap');
+
+*{margin: 0;
+padding: 0;}
+
+body{
+    /* background-color: red; */
+}
+
+/* this code is for box1
+ajcwecjladc
+fdcmdk */
+
+.box1{
+    background-color: green;
+    width: 250px;
+    height: 250px;
+    color: white;
+    border: 4px solid red;
+    border-radius: 10px;
+    text-decoration: underline;
+    /* line-height: 25px; */
+    font-size: 30px;
+    /* font-style: italic; */
+    /* font-weight: bolder; */
+    font-family: 'Island Moments', cursive;
+}

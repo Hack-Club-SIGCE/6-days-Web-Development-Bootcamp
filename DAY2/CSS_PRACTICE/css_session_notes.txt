@@ -1,0 +1,28 @@
+
+Syntax, selectors, comments, colors, bg-color, borders, margin, padding,
+ height, width, box-model (console wala), text, fonts, lists, 
+display, forms,  border-radius,  z-index, overflow, text-align,
+opacity, pseudo-selectors
+
+DISPLAY PROPERTIES 
+
+1 DISPLAY INLINE (div is block element...takes whole space)
+
+2 text prop - 
+text decoration(underline)
+text transform(capitalize)
+line-height
+
+3 FONTS
+font-size
+font family 
+font weight
+color
+font style
+
+4 FLEXBOX
+flex direction(row, coloumn)
+flex wrap(responsive websites)
+justify content(centre horizontal)
+allign items(centre vertical)
+
